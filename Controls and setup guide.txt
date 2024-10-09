@@ -1,0 +1,30 @@
+----------------------------------------------------------------------------------
+NOTE: This game is supposed to be played with physical controls and the experience is not optimal with keyboard. You can still give it a try. Puzzle 2 (with the cranes) are the most playable one with keyboard.
+----------------------------------------------------------------------------------
+
+Equipment:
+2x screens (need to be 1080p in windows and 16:9 ratio)
+2x keyboards
+
+
+Controls:
+
+BUTTONS/Colors
+Player 1:	Player 2:
+e = blue	h = blue
+r = yellow	j = yellow
+t = red		k = red
+y = green	l = green
+
+JOYSTICK/CRANE:
+Player 1:	player 2:
+a = left	arrow keys (<--)
+d = right
+s = pick up
+
+WHEEL:
+Player 1:	Player 2:
+Mouse x-axis	Mouse y-axis
+
+z = reset
+space = skip to next level
